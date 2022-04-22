@@ -5,6 +5,7 @@ Docker image, used by [Cloudixy](https://github.com/cloudixy/cloudixy) to genera
 Container currently contains NPM packages for following _frameworks_:
 - Vue
 - Nuxt
+- React
 
 To build Docker container, run:
 ```
